@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M0lt0
 - 👀 I’m interested in html css & javascript
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
