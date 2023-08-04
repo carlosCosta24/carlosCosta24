@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M0lt0
-- 👀 I’m interested in html css & javascript
+- 👀 I’m interested in Software Engineering, especially frontend domain
 - 🌱 I’m currently learning Web development 
 
 <!---
