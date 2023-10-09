@@ -8,7 +8,7 @@ Skills:  JS / HTML / CSS / angular / git /
 
 - 🔭 I’m currently working on bonsae 
 - 🌱 I’m currently learning Angular 
-- 👯 I’m looking to collaborate on js projects  
+- 👯 I’m looking to collaborate on JS projects  
 - 😄 Pronouns: Molto 
 - ⚡ Fun fact: I love swimming 
 
