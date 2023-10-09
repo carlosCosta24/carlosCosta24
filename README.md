@@ -1,5 +1,5 @@
-### Hi there 👋, my name is molto
-#### I am a self-taught front-end developer, interested in programming especially the web domain.
+[### Hi there 👋, my name is molto
+#### I am a self-taught front-end developer, interested in programming, especially the web domain.
 ![I am a self-taught front-end developer, interested in programming especially web domain.](https://4kwallpapers.com/images/wallpapers/owl-digital-art-3840x2160-10177.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -19,3 +19,4 @@ Skills:  JS / HTML / CSS / angular / git /
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/M0lt0)  
 
+](https://github.com/M0lt0)https://github.com/M0lt0
