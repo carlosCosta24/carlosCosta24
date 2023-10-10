@@ -1,7 +1,9 @@
-### Hi there 👋, my name is molto
-#### I am a self-taught front-end developer, interested in programming especially web domain.
 ![I am a self-taught front-end developer, interested in programming especially web domain.](owl_2.jpg
 )
+
+
+### Hi there 👋, my name is molto
+#### I am a self-taught front-end developer, interested in programming especially web domain.
 
 
 Skills: Skills:  JS / HTML / CSS / angular / git / 
