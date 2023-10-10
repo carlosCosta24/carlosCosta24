@@ -16,7 +16,5 @@ Skills: Skills:  JS / HTML / CSS / angular / git /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M0lt0&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/M0lt0)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=M0lt0)  
 
