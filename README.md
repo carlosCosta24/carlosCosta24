@@ -1,4 +1,4 @@
-![I am a self-taught front-end developer, interested in programming especially web domain.](owl_2.jpg
+![I am a self-taught front-end developer, interested in programming especially web domain.](3664542a4bb5c77b6b96d8bc0124f9a3.jpg
 )
 
 
