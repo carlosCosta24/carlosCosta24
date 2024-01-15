@@ -1,8 +1,4 @@
-![I am a self-taught front-end developer, interested in programming especially web domain.]
-<div style="border-radius=8px">
-  <img src="https://github.com/M0lt0/M0lt0/blob/main/3664542a4bb5c77b6b96d8bc0124f9a3.jpeg
-">
-  </div>
+![I am a self-taught front-end developer, interested in programming especially web domain.]<div style="border-radius=8px"><img src="https://github.com/M0lt0/M0lt0/blob/main/3664542a4bb5c77b6b96d8bc0124f9a3.jpeg"></div>
 
 
 ### Hi there 👋, my name is molto
