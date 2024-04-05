@@ -1,17 +1,17 @@
 <div style="border-radius=8px; border="2px solid #ffffffa6 ">
-  <h2>I am a self-taught front-end developer, interested in programming, especially the web domain.</h2>
+  <h2>The boundless potential and endless possibilities of the web continue to drive my passion for programming and computer science as a self-taught front-end developer.</h2>
   <img src="https://github.com/M0lt0/M0lt0/blob/main/3664542a4bb5c77b6b96d8bc0124f9a3.jpeg"></div>
 
 
-### Hi there 👋, my name is molto
-#### I am a self-taught front-end developer, interested in cs/programming, especially web domain.
+### Hi there 👋, my name is Carlos Cost
+#### I am a self-taught front-end engineer, interested in computer science and programming, especially the web domain.
 
 
-Skills: Skills:  JS / HTML / CSS / angular / git / 
+Skills: Skills:  JS / HTML / CSS  / git / sass / react.js
 
-- 🔭 I’m currently working on bonssae 
-- 🌱 I’m currently learning angular 
-- 👯 I’m looking to collaborate on JS projects 
+- 🔭 I’m currently working on Excel as a software engineer.
+- 🌱 I am determined to take my skills to the next level by mastering React.js and its ecosystem.
+- 👯 I’m looking to collaborate on JS projects. 
 
 <hr>
 
