@@ -1,5 +1,5 @@
 <div style="border-radius=8px; border="2px solid #ffffffa6 ">
-  <h2>The boundless potential and endless possibilities of the web continue to drive my passion for programming and computer science as a self-taught front-end developer.</h2>
+  <h2>The boundless potential and endless possibilities of the cs continue to drive my passion for programming and creating as a self-taught developer.</h2>
   <img src="https://github.com/M0lt0/M0lt0/blob/main/3664542a4bb5c77b6b96d8bc0124f9a3.jpeg"></div>
 
 
