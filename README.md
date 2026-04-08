@@ -75,15 +75,6 @@ Relational database design project
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlosCosta24&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosCosta24&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/carloscosta24
